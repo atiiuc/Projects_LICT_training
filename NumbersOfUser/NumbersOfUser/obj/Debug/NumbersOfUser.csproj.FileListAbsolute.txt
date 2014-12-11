@@ -1,0 +1,5 @@
+e:\atiiucProjects\NumbersOfUser\NumbersOfUser\bin\Debug\NumbersOfUser.exe.config
+e:\atiiucProjects\NumbersOfUser\NumbersOfUser\bin\Debug\NumbersOfUser.exe
+e:\atiiucProjects\NumbersOfUser\NumbersOfUser\bin\Debug\NumbersOfUser.pdb
+e:\atiiucProjects\NumbersOfUser\NumbersOfUser\obj\Debug\NumbersOfUser.exe
+e:\atiiucProjects\NumbersOfUser\NumbersOfUser\obj\Debug\NumbersOfUser.pdb

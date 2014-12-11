@@ -1,0 +1,9 @@
+E:\Practise\Double\Double\bin\Debug\Double.exe.config
+E:\Practise\Double\Double\bin\Debug\Double.exe
+E:\Practise\Double\Double\bin\Debug\Double.pdb
+E:\Practise\Double\Double\obj\Debug\Double.csprojResolveAssemblyReference.cache
+E:\Practise\Double\Double\obj\Debug\Double.csproj.GenerateResource.Cache
+E:\Practise\Double\Double\obj\Debug\Double.exe
+E:\Practise\Double\Double\obj\Debug\Double.pdb
+E:\Practise\Double\Double\obj\Debug\DoubleOfNumberApp.Form1.resources
+E:\Practise\Double\Double\obj\Debug\DoubleOfNumberApp.Properties.Resources.resources

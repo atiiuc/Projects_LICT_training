@@ -1,0 +1,1 @@
+e:\atiiucProjects\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config

@@ -1,0 +1,5 @@
+e:\atiiucProjects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+e:\atiiucProjects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+e:\atiiucProjects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+e:\atiiucProjects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+e:\atiiucProjects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

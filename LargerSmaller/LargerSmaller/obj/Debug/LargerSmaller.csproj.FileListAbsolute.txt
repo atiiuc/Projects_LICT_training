@@ -1,0 +1,5 @@
+e:\atiiucProjects\LargerSmaller\LargerSmaller\bin\Debug\LargerSmaller.exe.config
+e:\atiiucProjects\LargerSmaller\LargerSmaller\bin\Debug\LargerSmaller.exe
+e:\atiiucProjects\LargerSmaller\LargerSmaller\bin\Debug\LargerSmaller.pdb
+e:\atiiucProjects\LargerSmaller\LargerSmaller\obj\Debug\LargerSmaller.exe
+e:\atiiucProjects\LargerSmaller\LargerSmaller\obj\Debug\LargerSmaller.pdb

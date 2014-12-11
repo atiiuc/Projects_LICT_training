@@ -1,0 +1,6 @@
+e:\atiiucProjects\HiName\HiName\bin\Debug\HiName.exe.config
+e:\atiiucProjects\HiName\HiName\bin\Debug\HiName.exe
+e:\atiiucProjects\HiName\HiName\bin\Debug\HiName.pdb
+e:\atiiucProjects\HiName\HiName\obj\Debug\HiName.csprojResolveAssemblyReference.cache
+e:\atiiucProjects\HiName\HiName\obj\Debug\HiName.exe
+e:\atiiucProjects\HiName\HiName\obj\Debug\HiName.pdb

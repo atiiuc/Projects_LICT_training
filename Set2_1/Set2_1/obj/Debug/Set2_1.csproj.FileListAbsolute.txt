@@ -1,0 +1,5 @@
+e:\atiiucProjects\Set2_1\Set2_1\bin\Debug\Set2_1.exe.config
+e:\atiiucProjects\Set2_1\Set2_1\bin\Debug\Set2_1.exe
+e:\atiiucProjects\Set2_1\Set2_1\bin\Debug\Set2_1.pdb
+e:\atiiucProjects\Set2_1\Set2_1\obj\Debug\Set2_1.exe
+e:\atiiucProjects\Set2_1\Set2_1\obj\Debug\Set2_1.pdb

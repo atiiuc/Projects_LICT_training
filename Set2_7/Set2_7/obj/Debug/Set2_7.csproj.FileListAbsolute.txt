@@ -1,0 +1,6 @@
+E:\atiiucProjects\Set2_7\Set2_7\bin\Debug\Set2_7.exe.config
+E:\atiiucProjects\Set2_7\Set2_7\bin\Debug\Set2_7.exe
+E:\atiiucProjects\Set2_7\Set2_7\bin\Debug\Set2_7.pdb
+E:\atiiucProjects\Set2_7\Set2_7\obj\Debug\Set2_7.csprojResolveAssemblyReference.cache
+E:\atiiucProjects\Set2_7\Set2_7\obj\Debug\Set2_7.exe
+E:\atiiucProjects\Set2_7\Set2_7\obj\Debug\Set2_7.pdb

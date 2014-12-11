@@ -1,0 +1,6 @@
+e:\atiiucProjects\ArithmaticOperation\ArithmaticOperation\bin\Debug\ArithmaticOperation.exe.config
+e:\atiiucProjects\ArithmaticOperation\ArithmaticOperation\bin\Debug\ArithmaticOperation.exe
+e:\atiiucProjects\ArithmaticOperation\ArithmaticOperation\bin\Debug\ArithmaticOperation.pdb
+e:\atiiucProjects\ArithmaticOperation\ArithmaticOperation\obj\Debug\ArithmaticOperation.csprojResolveAssemblyReference.cache
+e:\atiiucProjects\ArithmaticOperation\ArithmaticOperation\obj\Debug\ArithmaticOperation.exe
+e:\atiiucProjects\ArithmaticOperation\ArithmaticOperation\obj\Debug\ArithmaticOperation.pdb

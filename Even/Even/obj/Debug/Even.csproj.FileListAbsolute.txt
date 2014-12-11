@@ -1,0 +1,5 @@
+e:\atiiucProjects\Even\Even\bin\Debug\Even.exe.config
+e:\atiiucProjects\Even\Even\bin\Debug\Even.exe
+e:\atiiucProjects\Even\Even\bin\Debug\Even.pdb
+e:\atiiucProjects\Even\Even\obj\Debug\Even.exe
+e:\atiiucProjects\Even\Even\obj\Debug\Even.pdb

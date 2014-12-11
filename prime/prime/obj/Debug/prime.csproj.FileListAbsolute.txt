@@ -1,0 +1,5 @@
+E:\atiiucProjects\prime\prime\bin\Debug\prime.exe.config
+E:\atiiucProjects\prime\prime\bin\Debug\prime.exe
+E:\atiiucProjects\prime\prime\bin\Debug\prime.pdb
+E:\atiiucProjects\prime\prime\obj\Debug\prime.exe
+E:\atiiucProjects\prime\prime\obj\Debug\prime.pdb

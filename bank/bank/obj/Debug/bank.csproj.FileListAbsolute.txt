@@ -1,0 +1,9 @@
+E:\Practise\bank\bank\bin\Debug\bank.exe.config
+E:\Practise\bank\bank\bin\Debug\bank.exe
+E:\Practise\bank\bank\bin\Debug\bank.pdb
+E:\Practise\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+E:\Practise\bank\bank\obj\Debug\bank.Form1.resources
+E:\Practise\bank\bank\obj\Debug\bank.Properties.Resources.resources
+E:\Practise\bank\bank\obj\Debug\bank.csproj.GenerateResource.Cache
+E:\Practise\bank\bank\obj\Debug\bank.exe
+E:\Practise\bank\bank\obj\Debug\bank.pdb
