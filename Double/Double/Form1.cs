@@ -22,8 +22,7 @@ namespace DoubleOfNumberApp
             int num,num1;
           
             num = Convert.ToInt32(inputNum.Text);
-           num1=GetDouble(num);
-            
+            num1=GetDouble(num);
             outputNum.Text = num1.ToString();
 
         }
